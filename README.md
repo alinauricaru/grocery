@@ -1,2 +1,2 @@
 # grocery
-This project managies products in a grocery
+This project manages products in a grocery
